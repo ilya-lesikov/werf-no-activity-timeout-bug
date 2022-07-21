@@ -313,5 +313,5 @@ rules:
   - patch
   - update
   - get
-  # - list
+  - list
   # - watch
